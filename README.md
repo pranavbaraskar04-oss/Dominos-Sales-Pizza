@@ -119,49 +119,9 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 ---
 
-## </> Let's practice questions on Playground 🎧
-
-Work through real-world scenarios and exercises as you move through each section of the course for deeper mastery.
-
-[Player](http://playground.traidev.com)
-
-![playground.traidev.com](https://traidev.com//assets/images/playground.gif)
-
----
-
-
-
-## Complete SQL Course
-Master SQL & MySQL: The Complete Bootcamp for Beginners & Experts is a comprehensive course designed to take you from the basics of SQL to advanced MySQL techniques.
-
-[Coure Link](https://traidev.com/course/complete-sql-course-for-beginners-in-hindi)
-
-
-![Course](https://traidev.com//assets/images/courses/complete-sql-course-for-beginners-in-hindi.jpeg)
-
-
----
-
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
 2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
-
-
-## Author - Traidev India 
-
-This project is part of **Triadev India**, showcasing SQL Projects essential for data analyst roles. You can explore all projects at [traidev.com](https://www.traidev.com) and discover more data analyst resources and projects there.
-
-
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@traidev)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/traidev/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/company/traidevindia)
-- **Playground**: [Checkout & Practice Questions at Playground ](http://playground.traidev.com/)
-
-Thank you for your support, and I look forward to connecting with you!
